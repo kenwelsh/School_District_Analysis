@@ -15,7 +15,7 @@ Rerunning the analysis with these changes had the following effects:
   + The % Passing Math dropped from 75% down to 74%.
   + The % Passing Reading dropped from 86% to 85%.
   + The % Overall Passing dropped from 65% to 64%.
-+ The only affected record in the School Summary is for Thomas High School.
++ The only affected record in the School Summary is for Thomas High School:
   + The Average Math Score remained unchanged at 83.4.
   + The Average Reading Score rose from 83.8 to 83.9.
   + The % Passing Math dropped from 93% down to 67%.
